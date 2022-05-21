@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dngx
+- 👋 Hi, I’m @Dengo
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning React + Redux.
 - 💞️ I’m looking to collaborate on team projects.
