@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dengo
-- 👀 I’m interested in web development. It's my hobby.
-- 🌱 I’m currently learning React + Redux.
+- 👀 I’m interested in web development. It's more than my hobby.
+- 🌱 I’m currently attending The Complete 2024 Web Development Bootcamp.
 - 💞️ I’m looking to collaborate on team projects.
 - 📫 How to reach me: edrenelidengiz@hotmail.com
 
